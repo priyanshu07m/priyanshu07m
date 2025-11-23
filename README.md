@@ -43,7 +43,7 @@
 
 - 📍 Kanpur, Uttar Pradesh  
 - ✉️ Email: 2k24.csaiml1c.2411603@gmail.com
-- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/priyanshu-maurya07) *(add your link)*
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/priyanshu-maurya07) 
 
 ---
 
