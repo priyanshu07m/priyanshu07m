@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Omar</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Maurya</h1>
 <h3 align="center">B.Tech 2nd Year | AI & ML Enthusiast | Aspiring Full Stack Developer</h3>
 
 ---
